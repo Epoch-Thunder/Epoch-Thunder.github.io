@@ -23,7 +23,7 @@ header{
     left: 0;
     width: 100vw;
     height: 215px;
-    background: url('img/thunder.webp');
+    background: url('thunder.webp');
     background-position: center 0;
     background-size: cover;
     background-repeat: no-repeat;
@@ -37,7 +37,7 @@ header{
   left: 0;
   width: 100vw;
   height: 215px;
-  background: url('img/thunder.webp');
+  background: url('thunder.webp');
   background-position: center 0;
   background-size: cover;
   background-repeat: no-repeat;
